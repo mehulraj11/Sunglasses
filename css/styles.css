@@ -10,10 +10,10 @@
     justify-content: space-between;
 }
 #logo{
-    margin:0px 10px;
-    /* border:2px solid black; */
-    height:25px;
-    width:30px;
+    margin:0rem 1rem;
+/*     border:2px solid black; */
+    height:1.4rem;
+    width:1.9rem;
 }
 #navoptions{
     position:absolute;
@@ -21,7 +21,7 @@
 /*     border:2px solid black; */
 }
 #navoptions li{
-    margin:0 100px;
+    margin:0rem 50px;
     /* border:2px solid black; */
     list-style:none;
 }

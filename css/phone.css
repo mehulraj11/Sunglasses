@@ -1,0 +1,32 @@
+#logo{
+    position:absolute;
+    top:50px;
+}
+#navoptions{
+    top:50px;
+    left:50px;
+}
+#search{
+    position:absolute;
+    left:500px;
+    top:50px;
+}
+#search img{
+    /* border:2px solid black; */
+    height:25px;
+    margin:0px 10px;
+}
+#backgroundimg{
+    top:250px;
+    width:110%;
+    height:120vh;
+}
+.slogan{
+    top:600px;
+}
+#pricestop{
+    top:750px;
+}
+#pricesbottom{
+    top:800px;
+}
